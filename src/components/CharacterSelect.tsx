@@ -37,7 +37,7 @@ export default function CharacterSelect() {
       <div className="text-center mb-8">
         <div className="inline-flex items-center gap-2 mb-3">
           <Heart className="w-8 h-8 text-rose-500 fill-rose-500" />
-          <h1 className="text-3xl font-bold text-rose-600">纸片人男友</h1>
+          <h1 className="bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text text-3xl font-bold text-transparent">纸片人男友</h1>
           <Heart className="w-8 h-8 text-rose-500 fill-rose-500" />
         </div>
         <p className="text-rose-400 text-sm">选择你的虚拟男友，开始一段浪漫的对话</p>
