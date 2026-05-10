@@ -41,7 +41,7 @@ export default function LoginPage() {
         <div className="text-center mb-8">
           <div className="inline-flex items-center gap-2 mb-3">
             <Heart className="w-7 h-7 text-rose-500 fill-rose-500" />
-            <h1 className="text-2xl font-bold text-blue-600">纸片人男友</h1>
+            <h1 className="text-2xl font-bold text-rose-600">纸片人男友</h1>
           </div>
           <p className="text-rose-400 text-sm">登录你的账号，继续浪漫之旅</p>
         </div>
